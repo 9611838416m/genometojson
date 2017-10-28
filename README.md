@@ -129,6 +129,12 @@ if (dna.rs601338.genotype == 'AA') {
 ```
 
 
+## Example Files
+
+The Folder Examples has a code example to use the module
+
+The Folder Samples contains sample Genome files from different vendors and their JSON converted versions
+
 
 ## LICENSE
 
