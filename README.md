@@ -1,5 +1,7 @@
 # genometojson
-NPM Version Comming Soon
+[![npm version](https://badge.fury.io/js/genometojson.svg)](https://badge.fury.io/js/genometojson)
+
+[![Build Status](https://travis-ci.org/9611838416m/genometojson.svg?branch=master)](https://travis-ci.org/9611838416m/genometojson)
 
 ## Information
 
