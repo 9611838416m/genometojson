@@ -18,7 +18,7 @@
     "genometojson"
   ],
   "bin": {
-    "dna2json": "./bin/dna2json.js"
+    "genometojson": "./bin/genometojson.js"
   },
   "dependencies": {
     "first-match": "0.0.1",
