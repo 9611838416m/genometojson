@@ -11,7 +11,7 @@ var outFile = argv._[1];
 
 if (!inFile || !outFile) {
   console.error('Missing argument');
-  console.error('Usage: dna2json <input file> <output file>');
+  console.error('Usage: genometojson <input file> <output file>');
   process.exit();
 }
 
