@@ -116,7 +116,7 @@ SNP-JSON, SNPedia and vendor formats use different notations to indicate indels 
 
 ## Using your SNP-JSON
 
-### Just Write Code™
+### Show me the code!!
 
 In this example we will determine if you are immune to norovirus (Data from SNPedia):
 
