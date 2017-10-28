@@ -36,7 +36,7 @@ Commercial genome vendors will typically produce an analysis that covers some of
 | ancestryDNA | Yes | 99 USD | Saliva | 682,549 | 885 | 17,604 | 0 | [Yes](http://ldna.ancestry.com/atFAQ.aspx#raw-3) |
 | FamilyTree | Yes | 99 USD | Cheek Swab | 708,092 | 0 | 18,091 | 0 | [Yes](http://www.familytreedna.com/faq/answers.aspx?id=17#606) |
 
-<sup>*</sup> 23andMe picing is 199 USD domestically and 99 USD abroad.
+<sup>*</sup> 23andMe picing is 199 USD in the US and 99 USD abroad (the abroad test does not include Health Information).
 
 ## CLI Usage
 
