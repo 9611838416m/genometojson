@@ -1,0 +1,37 @@
+{
+  "name": "genometojson",
+  "description": "Formats your commercial genome file as JSON",
+  "version": "1.0.0",
+  "homepage": "https://github.com/9611838416m/genometojson/",
+  "repository": "https://github.com/9611838416m/genometojson.git",
+  "author": "Santosh Manivannan <s.manivannan@freemygenome.com>",
+  "main": "./index.js",
+  "tags": [
+    "23andme",
+    "familytree",
+    "ancestry",
+    "dna",
+    "genetics",
+    "genes",
+    "json",
+    "format",
+    "genometojson"
+  ],
+  "bin": {
+    "dna2json": "./bin/dna2json.js"
+  },
+  "dependencies": {
+    "first-match": "0.0.1",
+    "lodash.reduce": "^3.0.0",
+    "optimist": "^0.6.1"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "Coming Soon!",
+      "url": ""
+    }
+  ]
+}
