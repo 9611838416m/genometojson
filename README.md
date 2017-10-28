@@ -43,17 +43,17 @@ Commercial genome vendors will typically produce an analysis that covers some of
 Use this if you just want to convert your data to the correct format so you can start querying your genome.
 
 ```
-$ npm install dna2json -g
-$ dna2json
-Usage: dna2json <input file> <output file>
-$ dna2json dna.txt dna.json
+$ npm install genometojson -g
+$ genometojson
+Usage: genometojson <input file> <output file>
+$ genometojson dna.txt dna.json
 This will take a while...
 ```
 
 ## Module Usage
 
 ```javascript
-var dna = require('dna2json');
+var dna = require('genometojson');
 var fs = require('fs');
 
 var txt = fs.readFileSync('dna.txt');
